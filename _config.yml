@@ -3,4 +3,5 @@ logo: /assets/img/logo.jpg
 description: Portfolio
 show_downloads: False
 google_analytics:
+is_project_page : False
 theme: jekyll-theme-minimal
