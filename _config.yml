@@ -1,6 +1,6 @@
 title: Manasi Pawar
 logo: /assets/img/logo.jpg
 description: Portfolio
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
